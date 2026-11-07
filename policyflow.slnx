@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PolicyFlow.Policy.Api/PolicyFlow.Policy.Api.csproj" />
+    <Project Path="src/PolicyFlow.Policy.Domain/PolicyFlow.Policy.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PolicyFLow.Policy.Tests/PolicyFLow.Policy.Tests.csproj" />
+  </Folder>
+</Solution>
